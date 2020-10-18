@@ -1,0 +1,120 @@
+﻿VARIABLE,DESCRIPTION
+REGION,Census Region code
+DIVISION,Census Division code
+STATE,State FIPS code
+NAME,State name
+CENSUS2010POP,4/1/2010 resident total Census 2010 population
+ESTIMATESBASE2010,4/1/2010 resident total population estimates base
+POPESTIMATE2010,7/1/2010 resident total population estimate
+POPESTIMATE2011,7/1/2011 resident total population estimate
+POPESTIMATE2012,7/1/2012 resident total population estimate
+POPESTIMATE2013,7/1/2013 resident total population estimate
+POPESTIMATE2014,7/1/2014 resident total population estimate
+POPESTIMATE2015,7/1/2015 resident total population estimate
+POPESTIMATE2016,7/1/2016 resident total population estimate
+POPESTIMATE2017,7/1/2017 resident total population estimate
+POPESTIMATE2018,7/1/2018 resident total population estimate
+POPESTIMATE2019,7/1/2019 resident total population estimate
+NPOPCHG_2010,Numeric change in resident total population 4/1/2010 to 7/1/2010
+NPOPCHG_2011,Numeric change in resident total population 7/1/2010 to 7/1/2011
+NPOPCHG_2012,Numeric change in resident total population 7/1/2011 to 7/1/2012
+NPOPCHG_2013,Numeric change in resident total population 7/1/2012 to 7/1/2013
+NPOPCHG_2014,Numeric change in resident total population 7/1/2013 to 7/1/2014
+NPOPCHG_2015,Numeric change in resident total population 7/1/2014 to 7/1/2015
+NPOPCHG_2016,Numeric change in resident total population 7/1/2015 to 7/1/2016
+NPOPCHG_2017,Numeric change in resident total population 7/1/2016 to 7/1/2017
+NPOPCHG_2018,Numeric change in resident total population 7/1/2017 to 7/1/2018
+NPOPCHG_2019,Numeric change in resident total population 7/1/2018 to 7/1/2019
+BIRTHS2010,Births in period 4/1/2010 to 6/30/2010
+BIRTHS2011,Births in period 7/1/2010 to 6/30/2011
+BIRTHS2012,Births in period 7/1/2011 to 6/30/2012
+BIRTHS2013,Births in period 7/1/2012 to 6/30/2013
+BIRTHS2014,Births in period 7/1/2013 to 6/30/2014
+BIRTHS2015,Births in period 7/1/2014 to 6/30/2015
+BIRTHS2016,Births in period 7/1/2015 to 6/30/2016
+BIRTHS2019,Births in period 7/1/2018 to 6/30/2019
+DEATHS2010,Deaths in period 4/1/2010 to 6/30/2010
+DEATHS2011,Deaths in period 7/1/2010 to 6/30/2011
+DEATHS2012,Deaths in period 7/1/2011 to 6/30/2012
+DEATHS2013,Deaths in period 7/1/2012 to 6/30/2013
+DEATHS2014,Deaths in period 7/1/2013 to 6/30/2014
+DEATHS2015,Deaths in period 7/1/2014 to 6/30/2015
+DEATHS2016,Deaths in period 7/1/2015 to 6/30/2016
+DEATHS2017,Deaths in period 7/1/2016 to 6/30/2017
+DEATHS2018,Deaths in period 7/1/2017 to 6/30/2018
+DEATHS2019,Deaths in period 7/1/2018 to 6/30/2019
+NATURALINC2010,Natural increase in period 4/1/2010 to 6/30/2010
+NATURALINC2011,Natural increase in period 7/1/2010 to 6/30/2011
+NATURALINC2012,Natural increase in period 7/1/2011 to 6/30/2012
+NATURALINC2013,Natural increase in period 7/1/2012 to 6/30/2013
+NATURALINC2014,Natural increase in period 7/1/2013 to 6/30/2014
+NATURALINC2015,Natural increase in period 7/1/2014 to 6/30/2015
+NATURALINC2016,Natural increase in period 7/1/2015 to 6/30/2016
+NATURALINC2017,Natural increase in period 7/1/2016 to 6/30/2017
+NATURALINC2018,Natural increase in period 7/1/2017 to 6/30/2018
+NATURALINC2019,Natural increase in period 7/1/2018 to 6/30/2019
+INTERNATIONALMIG2010,Net international migration in period 4/1/2010 to
+INTERNATIONALMIG2011,Net international migration in period 7/1/2010 to
+INTERNATIONALMIG2012,Net international migration in period 7/1/2011 to
+INTERNATIONALMIG2013,Net international migration in period 7/1/2012 to
+INTERNATIONALMIG2014,Net international migration in period 7/1/2013 to
+INTERNATIONALMIG2015,Net international migration in period 7/1/2014 to
+INTERNATIONALMIG2016,Net international migration in period 7/1/2015 to
+INTERNATIONALMIG2017,Net international migration in period 7/1/2016 to
+INTERNATIONALMIG2018,Net international migration in period 7/1/2017 to
+INTERNATIONALMIG2019,Net international migration in period 7/1/2018
+DOMESTICMIG2010,Net domestic migration in period 4/1/2010 to
+DOMESTICMIG2011,Net domestic migration in period 
+DOMESTICMIG2012,Net domestic migration in period
+DOMESTICMIG2013,Net domestic migration in period 7/1/2012 to
+DOMESTICMIG2014,Net domestic migration in period 7/1/2013 to
+DOMESTICMIG2015,Net domestic migration in period 7/1/2014 to
+DOMESTICMIG2016,Net domestic migration in period 7/1/2015 to
+DOMESTICMIG2017,Net domestic migration in period 7/1/2016 to
+DOMESTICMIG2018,Net domestic migration in period 7/1/2017 to
+DOMESTICMIG2019,Net domestic migration in period 7/1/2018 to
+NETMIG2010,Net migration in period 4/1/2010 to 6/30/2010
+NETMIG2011,Net migration in period 7/1/2010 to 6/30/2011
+NETMIG2012,Net migration in period 7/1/2011 to 6/30/2012
+NETMIG2013,Net migration in period 7/1/2012 to 6/30/2013
+NETMIG2014,Net migration in period 7/1/2013 to 6/30/2014
+NETMIG2015,Net migration in period 7/1/2014 to 6/30/2015
+RESIDUAL2010,Residual for period 4/1/2010 to 6/30/2010
+RESIDUAL2011,Residual for period 7/1/2010 to 6/30/2011
+RESIDUAL2012,Residual for period 7/1/2011 to 6/30/2012
+RESIDUAL2013,Residual for period 7/1/2012 to 6/30/2013
+RESIDUAL2014,Residual for period 7/1/2013 to 6/30/2014
+RESIDUAL2015,Residual for period 7/1/2014 to 6/30/2015
+RESIDUAL2016,Residual for period 7/1/2015 to 6/30/2016
+RESIDUAL2017,Residual for period 7/1/2016 to 6/30/2017
+RESIDUAL2018,Residual for period 7/1/2017 to 6/30/2018
+RESIDUAL2019,Residual for period 7/1/2018 to 6/30/2019
+RBIRTH2011,Birth rate in period 7/1/2010 to 6/30/2011
+RBIRTH2012,Birth rate in period 7/1/2011 to 6/30/2012
+RBIRTH2013,Birth rate in period 7/1/2012 to 6/30/2013
+RBIRTH2014,Birth rate in period 7/1/2013 to 6/30/2014
+RBIRTH2015,Birth rate in period 7/1/2014 to 6/30/2015
+RBIRTH2016,Birth rate in period 7/1/2015 to 6/30/2016
+RBIRTH2017,Birth rate in period 7/1/2016 to 6/30/2017
+RBIRTH2018,Birth rate in period 7/1/2017 to 6/30/2018
+RBIRTH2019,Birth rate in period 7/1/2018 to 6/30/2019
+RDEATH2011,Death rate in period 7/1/2010 to 6/30/2011
+RDEATH2012,Death rate in period 7/1/2011 to 6/30/2012
+RDEATH2013,Death rate in period 7/1/2012 to 6/30/2013
+RDEATH2014,Death rate in period 7/1/2013 to 6/30/2014
+RDEATH2015,Death rate in period 7/1/2014 to 6/30/2015
+RDEATH2016,Death rate in period 7/1/2015 to 6/30/2016
+RDEATH2017,Death rate in period 7/1/2016 to 6/30/2017
+RDEATH2018,Death rate in period 7/1/2017 to 6/30/2018
+RDEATH2019,Death rate in period 7/1/2018 to 6/30/2019
+RNATURALINC2011,Natural increase rate in period 7/1/2010 to 6/30/2011
+RNATURALINC2012,Natural increase rate in period 7/1/2011 to 06/30/2012
+RNATURALINC2013,Natural increase rate in period 7/1/2012 to 06/30/2013
+RNATURALINC2014,Natural increase rate in period 7/1/2013 to 06/30/2014
+RNATURALINC2015,Natural increase rate in period 7/1/2014 to 06/30/2015
+RNATURALINC2016,Natural increase rate in period 7/1/2015 to 06/30/2016
+RNATURALINC2017,Natural increase rate in period 7/1/2016 to 06/30/2017
+RNATURALINC2018,Natural increase rate in period 7/1/2017 to 06/30/2018
+RNATURALINC2019,Natural increase rate in period 7/1/2018 to 06/30/2019
+RINTERNATIONALMIG2011,Net international migration rate in period 7/1/2010 to
+RINTERNATIONALMIG2012,Net international migration rate in period 7/1/2011
