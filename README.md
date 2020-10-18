@@ -1,1 +1,1 @@
-# PredictIt-Analysis
+# PredictIt Analysis
