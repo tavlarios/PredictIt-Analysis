@@ -1,9 +1,0 @@
-Market Outcome,Type,Shares,Avg Price,Share Value,If Yes,If No,Risk,Payout
-Joe Biden,No,100,$0.35 ,$35.00 ,($35.00),$58.50 ,($35.00),$0.00 
-Any Other Contract,,,,$0.00 ,$0.00 ,$0.00 ,$58.50 ,$93.50 
-,,,,,,,,
-,,,,,,,,
-"Your Risk in any contract is the sum of your profits and losses, across all contracts, should that contract resolve to 'Yes'. To work out this sum, add the 'If Yes' figure for the contract to the 'If No' figures for all other contracts.",,,,,,,,
-Your Investment in the market as a whole is equal to your greatest Risk in any one contract. This is the amount PredcitIt debits from your account to cover your position.,,,,,,,,
-Your Payout is the amount you would be credited if the contract resolves to Yes. It is the difference between your total Investment (greatest Risk) and the Risk in the winning contract.,,,,,,,,
-Share Value corresponds to the face value of your position in each contract (shares multiplied by average purchase price). This value cannot exceed $850.,,,,,,,,
